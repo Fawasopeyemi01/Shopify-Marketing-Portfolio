@@ -40,11 +40,11 @@ This repository showcases my real client work in Shopify marketing — including
 ## ⚙️ My Process
 ```
 Step 1 → Store Audit
-         Review existing store for
+         Review the existing store for
          conversion issues and gaps
 
 Step 2 → Audience Research
-         Define target audience and
+         Define the target audience and
          buying behaviour
 
 Step 3 → Marketing Strategy
@@ -86,11 +86,11 @@ Step 6 → Scale
 
 These are real Shopify store designs built for clients across different niches.
 
-📄 [Genesis Store — PDF Sample](Genesis-sample-PDF.pdf)
+📄 [Genesis Store — PDF Sample](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/37e67202fd1047195bc79c66982c0eeed969d90b/Genesis%20sample%20PDF.pdf))
 
-📄 [Sherry's Favorites Store — PDF Sample](Sherrys-Favorites-sample-PDF.pdf)
+📄 [Sherry's Favorites Store — PDF Sample](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/37e67202fd1047195bc79c66982c0eeed969d90b/Sherry's%20Favorites%20sample%20PDF.pdf)
 
-📄 [The Plant Prep Store — PDF Sample](The-Plant-Prep-PDF-Sample.pdf)
+📄 [The Plant Prep Store — PDF Sample](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/37e67202fd1047195bc79c66982c0eeed969d90b/The%20Plant%20Prep%20PDF%20Sample.pdf)
 
 ---
 
