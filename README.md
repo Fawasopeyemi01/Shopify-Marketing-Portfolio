@@ -97,12 +97,12 @@ These are real Shopify store designs built for clients across different niches.
 ### 📧 Klaviyo Email Marketing Samples
 
 Complete email marketing automation flows built inside Klaviyo for real clients.
-
 1. Pop-up Form Design
 ![Genesis Pop-up Form](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/79ed838427942a4ae5b3cb0e8e33478083e8ee75/Genesis%20Pop-up%20Form.png)
 
-2. E-mail Flows (Abandoned Cart, Welcome Series, Customer Win-back, and E-mail Campaign) 
-![Natural Embrace — Best Seller Email]([Natural-Embrace-Best-Seller-E-mail.png](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/3cad37646fb4e531ae08941c06488a1b5651c095/Natural%20Embrace%20Best%20Seller%20E-mail.png))
+2. E-mail Flows (Abandoned Cart, Welcome Series, Customer Win-back, and E-mail Campaign)
+3. 
+![Natural Embrace — Best Seller Email](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/3cad37646fb4e531ae08941c06488a1b5651c095/Natural%20Embrace%20Best%20Seller%20E-mail.png))
 
 ![Natural Embrace — Email Flows](Natural-Embrace-Flows.png)
 
