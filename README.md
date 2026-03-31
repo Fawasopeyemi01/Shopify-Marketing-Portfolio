@@ -86,7 +86,7 @@ Step 6 → Scale
 
 These are real Shopify store designs built for clients across different niches.
 
-📄 [Genesis Store — PDF Sample](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/37e67202fd1047195bc79c66982c0eeed969d90b/Genesis%20sample%20PDF.pdf))
+📄 [Genesis Store — PDF Sample](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/37e67202fd1047195bc79c66982c0eeed969d90b/Genesis%20sample%20PDF.pdf)
 
 📄 [Sherry's Favorites Store — PDF Sample](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/37e67202fd1047195bc79c66982c0eeed969d90b/Sherry's%20Favorites%20sample%20PDF.pdf)
 
