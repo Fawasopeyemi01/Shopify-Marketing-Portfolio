@@ -116,9 +116,19 @@ Real Shopify order management and store backend samples.
 
 ### 📱 Social Media Awareness (Shop Promotion)
 
-Social media promotion campaigns built to drive traffic to Shopify stores.
+Social media shop built to display products directly to the audience through a social media page and allow them to purchase directly from there without going to the store.
 
 ![The Plant Pre — IG Shop](The-Plant-Pre-IG-Shop.jpg)
+
+---
+
+### 📱 SEO OPTIMIZATION (PRODUCT SEO)
+
+Optimized all the products' SEO to perform better in search engines
+
+![Products SEO](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/397c713a7b9de494bb58fcfebaaa33544212cf4b/Natural-Embrace-%C2%B7-Products%20-SEO-%C2%B7-After...png)
+
+
 
 ---
 
