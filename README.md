@@ -118,7 +118,7 @@ Real Shopify order management and store backend samples.
 
 Social media shop built to display products directly to the audience through a social media page and allow them to purchase directly from there without going to the store.
 
-![The Plant Pre — IG Shop](The-Plant-Pre-IG-Shop.jpg)
+![The Plant Pre — IG Shop](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/2463962357fd676c0f7dc60ef98007b411999e03/The%20Plant%20Pre%20IG%20Shop.jpg)
 
 ---
 
