@@ -17,7 +17,7 @@ This repository showcases my real client work in Shopify marketing — including
 
 ---
 
-## 🛠️ What I Build
+## 🛠️ What I Built
 
 ### Shopify Store Marketing
 - Complete marketing strategy tailored to your niche
