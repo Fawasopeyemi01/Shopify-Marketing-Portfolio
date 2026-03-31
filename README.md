@@ -100,7 +100,7 @@ Complete email marketing automation flows built inside Klaviyo for real clients.
 
 📄 [Klaviyo Email Marketing Sample](Genesis-Pop-up-Form.png)
 
-![Genesis Pop-up Form](Genesis Pop-up Form.png)
+![Genesis Pop-up Form](Genesis-Pop-up-Form.png)
 
 ![Natural Embrace — Best Seller Email](Natural-Embrace-Best-Seller-E-mail.png)
 
