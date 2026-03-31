@@ -102,7 +102,7 @@ Complete email marketing automation for clients, including Klaviyo pop-ups, flow
  
 ![Natural Embrace — Best Seller Email](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/3cad37646fb4e531ae08941c06488a1b5651c095/Natural%20Embrace%20Best%20Seller%20E-mail.png))
 
-![Natural Embrace — Email Flows](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/37e67202fd1047195bc79c66982c0eeed969d90b/The%20Plant%20Prep%20PDF%20Sample.pdf)
+![Natural Embrace — Email Flows](https://github.com/Fawasopeyemi01/Shopify-Marketing-Portfolio/blob/37e67202fd1047195bc79c66982c0eeed969d90b/Natural%20Embrace%20Flows.png)
 
 ---
 
